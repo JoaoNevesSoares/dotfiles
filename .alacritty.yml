@@ -1,0 +1,28 @@
+import:
+  - ~/alacritty-colorscheme/themes/ayu_dark.yaml
+
+TERM: alacritty
+font:
+  size: 21
+  normal:
+    family: "FiraCode Nerd Font"
+    #family: "MesloLGM NF"
+    style: Retina
+
+window:
+  padding:
+     x: 5
+     y: 5
+  decorations: full
+  transparent_background_colors: true
+  opacity: 0.95
+  startup_mode: Maximized
+  dynamic_tittle: true
+
+# ayu_dark
+#cyber_punk_neon
+#gotham
+#gruvbox_dark
+#gruvbox_material
+#horizon-dark
+#tokyo-night-storm
